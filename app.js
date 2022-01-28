@@ -50,11 +50,8 @@ document.addEventListener("DOMContentLoaded", () => {
       } else {
         square.style = 'background: black; color:grey;'
         key.style = 'background: black; color:grey;'
-      }
-      
+      }      
     }
-
-    console.log(currentAttempt.join(''))
   }
 
   function deleteHandler(game) {
