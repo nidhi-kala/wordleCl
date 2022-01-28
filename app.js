@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
    
   }
   
-  let allWords = ['rails','class','index','react', 'event','views', 'crime', 'bring', 'songs', 'nidhi', 'ishan']
+  let allWords = ['rails','class','index','react', 'event','views', 'crime', 'bring', 'songs', 'nidhi', 'ishan', 'rohan', 'seema']
   let word_of_the_day = "nidhi";
   let answer = word_of_the_day.split('');
   let currentAttempt = [];
